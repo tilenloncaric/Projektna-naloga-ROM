@@ -1,7 +1,7 @@
 JAGROS, d.o.o.
 
 Repozitorij vsebuje projektno nalogo pri predmetu Računalniška orodja v matematiki z naslovom JAGROS, d.o.o..
-V projektni nalogi sem predstavil podjetje, analiziral poslovanje in število zaposlenih v podjetju skozi leta. Predstavil sem tudi računovodki izkaz podjetja ob koncu leta in ga primerjal z računovodskimi izkazi preteklih let.
+Podatke sem pridobil iz letnih poročil podjetja med leti 2018 in 2022.
 
 Za izdelavo projektne naloge sem uporabil program Wolfram Mathematica.
 
